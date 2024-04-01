@@ -1,0 +1,44 @@
+﻿@* <div class="row" style="border:2px solid black; margin:0 auto; padding:20px;">
+    <div class="col-md-2">
+        Name
+    </div>
+    <div class="col-md-10">
+        <input type="text" id="txtProductName" class="form-control" placeholder="Enter" />
+    </div>    <div class="col-md-2">
+        Price
+    </div>
+    <div class="col-md-10">
+        <input type="text" id="txtPrice" class="form-control" placeholder="Enter" />
+    </div>
+    <div class="col-md-2">
+        Quantity
+    </div>
+    <div class="col-md-10">
+        <input type="text" id="txtQuantity" class="form-control" placeholder="Enter" />
+    </div>
+    <div class="col-md-12">
+        <button class="btn btn-primary" onclick="SaveProduct()">Save</button>
+    
+    </div>
+</div>
+
+<br /> *@
+
+<table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Active</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="tblBody"></tbody>
+</table>
+
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/js/product.js"></script>
