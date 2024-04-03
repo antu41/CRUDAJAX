@@ -1,12 +1,86 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Antu\\CRUDApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55204A3B-49A5-41C8-BCBD-2D5FDF45EBA8}|CRUDApi\\CRUDApi.csproj|d:\\antu\\crudapi\\crudapi\\controllers\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55204A3B-49A5-41C8-BCBD-2D5FDF45EBA8}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\controllers\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55204A3B-49A5-41C8-BCBD-2D5FDF45EBA8}|CRUDApi\\CRUDApi.csproj|d:\\antu\\crudapi\\crudapi\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{55204A3B-49A5-41C8-BCBD-2D5FDF45EBA8}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55204A3B-49A5-41C8-BCBD-2D5FDF45EBA8}|CRUDApi\\CRUDApi.csproj|d:\\antu\\crudapi\\crudapi\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55204A3B-49A5-41C8-BCBD-2D5FDF45EBA8}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55204A3B-49A5-41C8-BCBD-2D5FDF45EBA8}|CRUDApi\\CRUDApi.csproj|d:\\antu\\crudapi\\crudapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55204A3B-49A5-41C8-BCBD-2D5FDF45EBA8}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AjaxController.cs",
+              "DocumentMoniker": "D:\\Antu\\CRUDApi\\CRUDApi\\Controllers\\AjaxController.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Controllers\\AjaxController.cs",
+              "ToolTip": "D:\\Antu\\CRUDApi\\CRUDApi\\Controllers\\AjaxController.cs",
+              "RelativeToolTip": "CRUDApi\\Controllers\\AjaxController.cs",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAAACwBAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:57:22.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.js",
+              "DocumentMoniker": "D:\\Antu\\CRUDApi\\CRUDApi\\wwwroot\\js\\Product.js",
+              "RelativeDocumentMoniker": "CRUDApi\\wwwroot\\js\\Product.js",
+              "ToolTip": "D:\\Antu\\CRUDApi\\CRUDApi\\wwwroot\\js\\Product.js",
+              "RelativeToolTip": "CRUDApi\\wwwroot\\js\\Product.js",
+              "ViewState": "AQIAADABAAAAAAAAAAAAADcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-02T03:57:03.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Antu\\CRUDApi\\CRUDApi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDApi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Antu\\CRUDApi\\CRUDApi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDApi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAAYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T05:36:57.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Antu\\CRUDApi\\CRUDApi\\Views\\Ajax\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDApi\\Views\\Ajax\\Index.cshtml",
+              "ToolTip": "D:\\Antu\\CRUDApi\\CRUDApi\\Views\\Ajax\\Index.cshtml",
+              "RelativeToolTip": "CRUDApi\\Views\\Ajax\\Index.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T03:59:04.828Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

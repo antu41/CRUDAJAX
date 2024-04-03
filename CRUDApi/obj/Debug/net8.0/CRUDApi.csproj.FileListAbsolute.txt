@@ -134,3 +134,4 @@ D:\Antu\CRUDApi\CRUDApi\obj\Debug\net8.0\refint\CRUDApi.dll
 D:\Antu\CRUDApi\CRUDApi\obj\Debug\net8.0\CRUDApi.pdb
 D:\Antu\CRUDApi\CRUDApi\obj\Debug\net8.0\CRUDApi.genruntimeconfig.cache
 D:\Antu\CRUDApi\CRUDApi\obj\Debug\net8.0\ref\CRUDApi.dll
+D:\Antu\CRUDApi\CRUDApi\obj\Debug\net8.0\CRUDApi.sourcelink.json
